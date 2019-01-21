@@ -73,7 +73,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Salt Bay Media" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/images/saltbaymedia_100px.png" # Site logo, also used in jekyll-seo-tag
 description: "Enhancing digital marketing with knowledge graphs" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.saltbaymedia.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
