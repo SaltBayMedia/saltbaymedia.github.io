@@ -79,7 +79,7 @@ url: "https://www.saltbaymedia.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/SaltBayMedia/saltbaymedia.github.io"
 email: "contact@saltbaymedia.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+disqus: "www-saltbaymedia-com" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/e41af824488344695492382de37e98b2" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
